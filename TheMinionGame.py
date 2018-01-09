@@ -27,6 +27,12 @@ Constraints:
 Output Format:
 The name of the winner and their score separated by a space.
 If the game is a draw, print Draw.
+
+Sample Input:
+BANANA
+
+Sample Output:
+Stuart 12
 """
 
 def isConsonant(letter):
